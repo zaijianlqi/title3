@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<litepal>
+    <dbname value="property"></dbname>
+
+    <version value="3"></version>
+
+    <list>
+        <mapping class="com.example.title3.Income"></mapping>
+        <mapping class="com.example.title3.Expense"></mapping>
+    </list>
+</litepal>
